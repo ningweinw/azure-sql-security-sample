@@ -42,7 +42,7 @@
         "East US",
         "Central US",
         "North Europe",
-        "South India"
+        "Southeast Asia"
       ],
       "defaultValue": "[resourceGroup().location]",
       "metadata": {
